@@ -2,7 +2,7 @@ import React from 'react'
 
 function Adminreg() {
   return (
-    <div>Adminreg</div>
+    <div>Admin reg</div>
   )
 }
 
