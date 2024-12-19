@@ -2,7 +2,9 @@ import React from 'react'
 
 function Staffreg() {
   return (
-    <div>Staffreg</div>
+    <div>Staffreg
+        <h4>Staff register</h4>
+    </div>
   )
 }
 

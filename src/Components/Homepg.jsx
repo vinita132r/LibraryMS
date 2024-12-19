@@ -33,6 +33,9 @@ function Homepg() {
               </Row>
           </div>
           {/* About part end */}
+
+          {/* New section */}
+          <h3>New section</h3>
     </div>
   )
 }
